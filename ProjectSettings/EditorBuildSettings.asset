@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Device.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/The_Viking_Village.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/EasyTTS/EasyTTSDemo/DemoEasyTTS.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/EasyMovieTexture/Scene/Demo_Sphere.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Device_2.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/LogLocation.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Foo.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/MaskTest.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: d36c0e33368807643b75120ebe378ee7
+  - enabled: 0
+    path: Assets/crosstales/RTVoice/Demo/Speech_Mobile.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Vuforia.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Test/DepthMaskTest.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Inspect Drifting.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Mapping Correction.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/OverlayUI.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/TangoSDK/Examples/Scenes/PointCloud.unity
+    guid: da1e5db8a721743a2938ebcc9b514f22
+  - enabled: 0
+    path: Assets/Scenes/User Test.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/TangoSDK/Examples/Scenes/AreaLearning.unity
+    guid: 3fe863707b0b9426d9ea313be426fbf5
+  - enabled: 0
+    path: Assets/TangoSDK/Examples/Scenes/AreaDescriptionManagement.unity
+    guid: 2ed91207e1f3949a79b14b2435302de1
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 7d07a9dbeee2c5f44be261954facd76b
+  - enabled: 0
+    path: Assets/Ryooka/Scenes/Android Resume Test.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 384c9d547654fb94f81706a3af91c7c8
+  - enabled: 0
+    path: Assets/Scenes/Sub.unity
+    guid: 9d15c6b21528abd40b2b88b47cbb724a
